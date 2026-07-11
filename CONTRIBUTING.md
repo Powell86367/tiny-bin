@@ -27,3 +27,4 @@ Notes and usage details for tiny-bin.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
